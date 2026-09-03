@@ -12,7 +12,7 @@ Computer Science student at the University of Minnesota, focused on efficient LL
 
 ## Selected work
 
-- [zo-vLLM](https://github.com/playeriv65/zo-vllm) — inference-native zeroth-order optimization for large language models
+- [Inference-Native Zeroth-Order Optimization](https://arxiv.org/abs/2605.28760) — inference-native ZO for large language models ([code](https://github.com/playeriv65/zo-vllm))
 - [EasyLocomo](https://github.com/playeriv65/EasyLocomo) — reproducible evaluation for long-horizon LLM memory systems
 - [Auto-Chronicle Gaokao](https://github.com/playeriv65/ACG--Auto-Chronicle-Gaokao) — a state-machine narrative engine with multi-agent simulation
 
