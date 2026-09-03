@@ -21,7 +21,7 @@ Computer Science student at the University of Minnesota, focused on efficient LL
 <p>
   <img src="assets/umn-block-m.svg" width="48" alt="University of Minnesota Block M" align="left" />
   <strong>University of Minnesota, Twin Cities</strong><br />
-  B.S. in Computer Science · 2025–2027 · GPA: 4.0/4.0
+  Bachelor’s in Computer Science · 2025–2027 · GPA: 4.0/4.0
 </p>
 
 <br />
