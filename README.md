@@ -1,18 +1,19 @@
 # Zelin Li
 
-Computer Science student at the University of Minnesota, focused on efficient LLM systems and zeroth-order optimization.
+Computer Science student and research assistant at the University of Minnesota, interested in efficient LLM training and inference systems.
 
 [Website](https://playeriv65.com) · [CV](https://playeriv65.com/resume.pdf) · [Email](mailto:li004593@umn.edu) · [LinkedIn](https://www.linkedin.com/in/zelin-li-65a461355)
 
-## Research
+## Efficient LLM Training & Inference Systems
 
-- Efficient LLM inference and post-training
-- Zeroth-order optimization
-- Algorithm–system co-design
+1. **Integrated Training & Inference** — 训推一体化 · 推理式训练
+2. **Algorithm–System Co-Design** — 算法与系统协同设计
+3. **On-Device AI** — 端侧人工智能系统
+4. **Workload Scheduling** — 工作负载调度与资源利用
 
 ## Selected work
 
-- [Inference-Native Zeroth-Order Optimization](https://arxiv.org/abs/2605.28760) — inference-native ZO for large language models ([code](https://github.com/playeriv65/zo-vllm))
+- [Inference-Native Zeroth-Order Optimization for LLMs](https://arxiv.org/abs/2605.28760) — under review at ICLR 2027; arXiv preprint. Inference-native ZO for large language models ([code](https://github.com/playeriv65/zo-vllm))
 - [EasyLocomo](https://github.com/playeriv65/EasyLocomo) — reproducible evaluation for long-horizon LLM memory systems
 - [Auto-Chronicle Gaokao](https://github.com/playeriv65/ACG--Auto-Chronicle-Gaokao) — a state-machine narrative engine with multi-agent simulation
 
