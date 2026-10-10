@@ -2,7 +2,7 @@
 
 Computer Science student and research assistant at the University of Minnesota, interested in efficient LLM training and inference systems.
 
-[Website](https://playeriv65.com) · [CV](https://playeriv65.com/resume.pdf) · [Email](mailto:li004593@umn.edu) · [LinkedIn](https://www.linkedin.com/in/zelin-li-65a461355)
+[Website](https://playeriv65.com) · [CV](https://github.com/playeriv65/resume/blob/main/academic-cv/cv.pdf) · [Email](mailto:li004593@umn.edu) · [LinkedIn](https://www.linkedin.com/in/zelin-li-65a461355)
 
 ## Efficient LLM Training & Inference Systems
 
@@ -13,7 +13,7 @@ Computer Science student and research assistant at the University of Minnesota, 
 
 ## Selected work
 
-- [Inference-Native Zeroth-Order Optimization for LLMs](https://arxiv.org/abs/2605.28760) — under review at ICLR 2027; arXiv preprint. Inference-native ZO for large language models ([code](https://github.com/playeriv65/zo-vllm))
+- [InferZO: Inference-Native Zeroth-Order Optimization for LLMs](https://arxiv.org/abs/2605.28760) — under review at ICLR 2027; arXiv preprint. Inference-native execution for LLM training and inference co-serving ([code](https://github.com/playeriv65/InferZO))
 - [EasyLocomo](https://github.com/playeriv65/EasyLocomo) — reproducible evaluation for long-horizon LLM memory systems
 - [Auto-Chronicle Gaokao](https://github.com/playeriv65/ACG--Auto-Chronicle-Gaokao) — a state-machine narrative engine with multi-agent simulation
 
