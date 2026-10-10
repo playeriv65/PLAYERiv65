@@ -2,7 +2,7 @@
 
 Computer Science student and research assistant at the University of Minnesota, interested in efficient LLM training and inference systems.
 
-[Website](https://playeriv65.com) · [CV](https://github.com/playeriv65/resume/blob/main/academic-cv/cv.pdf) · [Email](mailto:li004593@umn.edu) · [LinkedIn](https://www.linkedin.com/in/zelin-li-65a461355)
+[Website](https://playeriv65.com) · [CV](https://playeriv65.com/resume.pdf) · [Email](mailto:li004593@umn.edu) · [LinkedIn](https://www.linkedin.com/in/zelin-li-65a461355)
 
 ## Efficient LLM Training & Inference Systems
 
