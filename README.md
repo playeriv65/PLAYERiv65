@@ -6,10 +6,10 @@ Computer Science student and research assistant at the University of Minnesota, 
 
 ## Efficient LLM Training & Inference Systems
 
-1. **Integrated Training & Inference** — 训推一体化
-2. **Algorithm–System Co-Design** — 算法与系统协同设计
-3. **LLM Post-Training** — 大语言模型后训练
-4. **On-Device AI** — 端侧人工智能
+1. **Integrated Training & Inference**
+2. **Algorithm–System Co-Design**
+3. **LLM Post-Training**
+4. **On-Device AI**
 
 ## Selected work
 
